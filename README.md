@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi! I'm Zeeshan, data scientist by day, software engineer by evening and heavy sleeper by night. 
+
+Here you'll find projects I worked on at university (like [my final year project]([url](https://github.com/x00sh/facedetector))) as well as other random tools and side projects I'm working on. 
+
+My main stack for data science is Python, using a plethora of machine learning and AI tools. I also work with typescript with react and react-native in various private repositories.
+
+I've been getting into running LLMs locally recently too so if anyone wants to build a datacentre in my room, I'm open to offers.
+
+I appreciate you stopping by :))
 
 <!--
 **x00sh/x00sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
