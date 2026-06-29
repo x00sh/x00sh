@@ -1,10 +1,10 @@
-Hi! I'm Zeeshan, data scientist by day, software engineer by evening and heavy sleeper by night. 
+Hi! I'm Zeeshan, a Data Scientist and Software Engineer, depending on the task at hand.
 
 Here you'll find projects I worked on at university (like [my final year project]([url](https://github.com/x00sh/facedetector))) as well as other random tools and side projects I'm working on. 
 
-My main stack for data science is Python, using a plethora of machine learning and AI tools. I also work with typescript with react and react-native in various private repositories.
+My main stack for data science is Python, using a plethora of machine learning and AI tools. I also work with typescript with react and react-native for full-stack development.
 
-I've been getting into running LLMs locally recently too so if anyone wants to build a datacentre in my room, I'm open to offers.
+My two main projects at time of writing are my Document to Audio Pipeline and a Morse Code game I'm working on, feel free to have a look!
 
 I appreciate you stopping by :))
 
